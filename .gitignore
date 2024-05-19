@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Dataset files
+free-7-million-company-dataset.zip
+free-7-million-company-dataset/
+
+# Miscellaneous
+*.log
